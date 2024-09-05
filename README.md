@@ -1,6 +1,6 @@
-# Programming Portfolio
+# Programming
 
-Welcome to my GitHub portfolio! Below are some of the programming projects I've worked on:
+Welcome to my Github page! Here will be a list of my projects and technologies that I have used.
 
 ## Projects
 ### [Lexical Analyzer]()
