@@ -7,6 +7,6 @@ Welcome to my Github page! Here will be a list of my projects and technologies t
 - A lexical analyzer and tokenizer which acts as the basis for one of the components of a compiler.
 - **Technologies Used**: Java, Java Swing
 
-### [MineSweeper](Minesweeper)
+### [MineSweeper](MineSweeper)
 - The Minesweeper you know and love.
 - **Technologies Used**: Java, Java Swing
