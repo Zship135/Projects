@@ -10,3 +10,7 @@ Welcome to my Github page! Here will be a list of my projects and technologies t
 ### [MineSweeper](MineSweeper)
 - The Minesweeper you know and love.
 - **Technologies Used**: Java, Java Swing
+
+### [Chess](Chess)
+- Working on making chess. I am starting with the traditional game and then hope to make some more unconventional versions with other pieces or board layouts
+- **Technologies Used**: Python, Pygame
