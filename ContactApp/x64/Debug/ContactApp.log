@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\zship\OneDrive\Desktop\C++\Learning\ContactApp\main.h(6,6): warning C4101: 'x': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+  ContactApp.vcxproj -> C:\Users\zship\OneDrive\Desktop\C++\Learning\ContactApp\x64\Debug\ContactApp.exe
